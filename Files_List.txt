@@ -1,0 +1,27 @@
+1. Enums (3 files):
+TransactionType.java
+TransactionStatus.java
+AccountStatus.java
+
+2. Custom Exceptions (4 files):
+InsufficientFundsException.java
+InvalidAccountException.java
+AccountBlockedException.java
+InvalidAmountException.java
+
+3. Entity Classes (2 files):
+Transaction.java
+Customer.java
+
+4. Account Classes (3 files):
+BankAccount.java (abstract parent class)
+SavingsAccount.java (extends BankAccount)
+CheckingAccount.java (extends BankAccount)
+
+5. System Classes (3 files):
+Bank.java (central repository)
+ATM.java (customer interface)
+BankAdministrator.java (admin interface)
+
+6. Main Application (1 file):
+BankingSystemApp.java (main class)
