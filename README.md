@@ -3,7 +3,7 @@
 ## System Overview
 This banking system implements a complete ATM and bank management solution using Object-Oriented Programming principles in Java. The system supports multiple customers, diverse account types, transaction logging, and administrative functions.                
 
-## Files Included: Go to src/
+## Files Included: Go to OPEN-ENDED-SC-LAB/src/
 BankAccount.java - Abstract base class for accounts
 
 SavingsAccount.java - Savings account implementation
